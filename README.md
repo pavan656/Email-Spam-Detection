@@ -85,11 +85,11 @@ streamlit run app.py
 
 ### 🏠 Home Page
 
-_(https://ik.imagekit.io/jxtjn4hpqj/image.png?updatedAt=1748062855916)_
+![home.png](https://ik.imagekit.io/jxtjn4hpqj/Screenshot%202025-05-24%20095612.png?updatedAt=1748060803517)
 
 ### 🧠 Prediction Output
 
-_(https://ik.imagekit.io/jxtjn4hpqj/image.png?updatedAt=1748062855916)_
+![output.png](https://ik.imagekit.io/jxtjn4hpqj/image.png?updatedAt=1748062855916)
 
 ---
 
