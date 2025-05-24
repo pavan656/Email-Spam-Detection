@@ -3,7 +3,7 @@
 # Email Spam Detection
 
 ![Project Logo](https://img.shields.io/badge/Streamlit-Deployed-green)
-**Deployed Application:** [Visit the App](https://sruthi-spam-detection.streamlit.app/)
+**Deployed Application:** [Visit the App](https://sruthi-email-spam-detect.streamlit.app/)
 
 This repository hosts the **Email Spam Detection** project, an interactive web app built using Python and Streamlit. It uses a trained **Machine Learning** model to classify emails as spam or legitimate (ham).
 
@@ -85,11 +85,11 @@ streamlit run app.py
 
 ### 🏠 Home Page
 
-_(Add image here)_
+_(https://ik.imagekit.io/jxtjn4hpqj/image.png?updatedAt=1748062855916)_
 
 ### 🧠 Prediction Output
 
-_(Add image here)_
+_(https://ik.imagekit.io/jxtjn4hpqj/image.png?updatedAt=1748062855916)_
 
 ---
 
