@@ -39,7 +39,7 @@ This project was built to combine **ML accuracy** with **real-world usability**,
 - Python 3.9+ must be installed
 
 ```bash
-git clone https://github.com/sruthisoppa/Email-Spam-Detection.git
+https://github.com/pavan656/Email-Spam-Detection.git
 cd Email-Spam-Detection
 ```
 
