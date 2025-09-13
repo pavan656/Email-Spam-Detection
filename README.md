@@ -15,18 +15,6 @@ This repository hosts the **Email Spam Detection** project, an interactive web a
 
 ---
 
-## 📋 Table of Contents
-
-1. [Overview](#-overview)
-2. [Technologies Used](#-technologies-used)
-3. [Setup and Installation](#-setup-and-installation)
-4. [Project Workflow](#-project-workflow)
-5. [Screenshots](#-screenshots)
-6. [Future Enhancements](#-future-enhancements)
-7. [Contributors](#-contributors)
-
----
-
 ## 🌟 Overview
 
 The **Email Spam Detection** app provides a real-world example of how Machine Learning can help prevent email spam. Simply paste any email content, and the model instantly predicts whether it's spam or not.
@@ -78,15 +66,9 @@ streamlit run app.py
 
 ---
 
-## 🖼️ Screenshots
-
 ### 🏠 Home Page
 
 ![home.png](https://ik.imagekit.io/jxtjn4hpqj/Screenshot%202025-05-24%20095612.png?updatedAt=1748060803517)
-
-### 🧠 Prediction Output
-
-![output.png](https://ik.imagekit.io/jxtjn4hpqj/image.png?updatedAt=1748062855916)
 
 ---
 
