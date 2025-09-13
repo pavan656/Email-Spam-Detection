@@ -110,16 +110,13 @@ streamlit run app.py
 
 ---
 
-## 🌐 Connect with Me
+## 🙋‍♂️ Author :
 
-- **Email**: [sruthisoppa@gmail.com](mailto:sruthisoppa@gmail.com)
+Pavan S Diwakar
 
----
+### 📬 Contact :
 
-Let me know if you'd like me to:
+📧 Email: pavan.s.diwakar@mail.com
 
-- Add **LinkedIn or GitHub profile links**
-- Generate a **custom project badge**
-- Include **screenshot placeholders** or visuals
+💼 LinkedIn: https://linkedin.com/in/pavan-s-diwakar-7b6930315/
 
-Ready to drop this into your repo as `README.md`!
